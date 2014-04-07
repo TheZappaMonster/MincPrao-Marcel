@@ -1,1 +1,1 @@
-$git remote add --track master origin https://github.com/marceltan/MincPrao-Marcel.git
+
